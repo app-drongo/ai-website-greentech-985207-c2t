@@ -20,7 +20,7 @@ const DEFAULT_HERO = {
   ],
   primaryCTA: 'Start Green Journey',
   secondaryCTA: 'View Impact Demo',
-  primaryCTAHref: '/',
+  primaryCTAHref: 'https://appforms.ai',
   secondaryCTAHref: '#demo',
   imageUrl:
     'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=1920&auto=format&fit=crop',

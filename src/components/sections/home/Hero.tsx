@@ -9,7 +9,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 const DEFAULT_HERO = {
   badge: 'New: Carbon-Neutral Hosting',
   title: 'Build sustainable tech solutions with',
-  titleHighlight: 'GreenTech Platform',
+  titleHighlight: 'Drongo Platform',
   description:
     'Reduce your digital carbon footprint while scaling your business. Our eco-friendly infrastructure powers the next generation of sustainable technology companies.',
   features: [
